@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(245, 185, 22);
+}
+
+h1 { 
+    color: red;
+}
+
+p {
+    color: rgb(14, 0, 51);
+}
+img {
+    width: 400px;
+    height: 300px;
+}
